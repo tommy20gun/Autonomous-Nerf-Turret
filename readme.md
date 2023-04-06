@@ -4,9 +4,10 @@
 
 #  Introduction
 
-It is our honor to introduce the Mciver Autonomous Nerf Turret. The software documentation can be found [here](https://enumc.github.io/me405/final/docs/html/)
+It is our honor to introduce the Mciver Autonomous Nerf Turret. 
 
-click [here](https://drive.google.com/file/d/1yIYNy-2PuTGBKp5YCygmx9BtBqGw15uQ/view?usp=sharing) for a video demonstration of the Nerf Turret.
+The software documentation can be found [here](https://enumc.github.io/me405/final/docs/html/)
+Click [here](https://drive.google.com/file/d/1yIYNy-2PuTGBKp5YCygmx9BtBqGw15uQ/view?usp=sharing) for a video demonstration of the Nerf Turret.
 
 ![gun photo](https://github.com/EnumC/me405/blob/main/final/res/gunphoto.jpg?raw=true)
 
