@@ -1,0 +1,22 @@
+@startuml McIver
+hide empty description
+' hide circle
+[*] --> S0
+S0 : RESET
+' S0 : Reset motor and arm states
+S0 --> S1 : [Clock=2s]
+S1 : ARMING
+S1 --> S2 : [motor setpoint == target setpoint]
+S2 : TARGETING
+' S2 : IR Sensor acquires target.
+S2 --> S2 : [valid_duration < valid_threshold]
+S2 --> S3 : [valid_duration >= valid_threshold]
+S3 : FIRE
+S3 --> S0 : [Clock=2s]
+
+legend right
+    NOTE:
+    MAXATTEMPTS = 12
+endlegend
+
+@enduml

@@ -1,0 +1,10 @@
+digraph "mlx90640.image.ChessPattern"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [label="mlx90640.image.ChessPattern",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="steelblue1",style="solid"];
+  Node2 [label="mlx90640.image._BasePattern",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classmlx90640_1_1image_1_1___base_pattern.html",tooltip=" "];
+}

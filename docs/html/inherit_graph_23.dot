@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [label="mlx_cam.MLX_Cam",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classmlx__cam_1_1_m_l_x___cam.html",tooltip="Class which wraps an MLX90640 thermal infrared camera driver to make it easier to grab and use an ima..."];
+}
