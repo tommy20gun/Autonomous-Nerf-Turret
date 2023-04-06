@@ -6,11 +6,8 @@
 
 It is our honor to introduce the Mciver Autonomous Nerf Turret. The software documentation can be found [here](https://enumc.github.io/me405/final/docs/html/)
 
-<<<<<<< HEAD
-click [here] () for a video demonstration of the Nerf Turret.
+click [here] (https://drive.google.com/file/d/1yIYNy-2PuTGBKp5YCygmx9BtBqGw15uQ/view?usp=sharing) for a video demonstration of the Nerf Turret.
 
-=======
->>>>>>> parent of 8ed4bfa (video)
 ![gun photo](https://github.com/EnumC/me405/blob/main/final/res/gunphoto.jpg?raw=true)
 
 The Mciver Autonomous Nerf Blaster is a heat-seeking auto-aiming turret that finds and shoots foam darts at human beings. Humans are tracked by an infared camera, so realistically, the turret will fire at anything that is on average hotter than the surrounding environment. 
